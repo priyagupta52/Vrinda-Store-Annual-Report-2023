@@ -10,4 +10,24 @@ The objective of the project is to analyze sales data for the Vrinda Retail Stor
 
 
 
+DATA ANALYSIS & CLEANING IN EXCEL
+
+Using the data to understand business problems and data points
+Cleaning the data by checking for correctness and dealing with inconsistencies
+
+
+DATA PROCESSING INVOLVES PERFORMING CALCULATIONS AND DATA ANALYSIS
+
+Creating groups and categories based on specified conditions.
+Applying formulas to process and categorize data.
+
+
+
+
+
+
+
+
+
+
 

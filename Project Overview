@@ -1,0 +1,67 @@
+OVERVIEW 
+
+
+The dashboard allows for automatic changes based on user selections, making it a powerful tool for data analysis.
+The objective of the project is to analyze sales data for the Vrinda Retail Store and create an annual report to help improve business performance
+
+
+
+DATA ANALYSIS & CLEANING IN EXCEL
+
+Using the data to understand business problems and data points
+Cleaning the data by checking for correctness and dealing with inconsistencies
+
+
+DATA PROCESSING INVOLVES PERFORMING CALCULATIONS AND DATA ANALYSIS
+
+Creating groups and categories based on specified conditions.
+Applying formulas to process and categorize data.
+
+
+USING EXCEL FORMULA TO CATEGORIZE THE AGE GROUP
+
+Explaining the formula to categorize adults, teenagers, and seniors based on age ranges
+Demonstrating the process of applying the formula to the dataset and the resulting categorization
+
+
+CREATING LINE CHART FOR THE ACCOUNT DATA WITH PROPER SCALING
+
+Selecting a combo chart and using a line chart for the account data
+Adjusting the scaling to make the values more visible and user-friendly
+
+
+
+FILTERING AND DISPLAYING TOP 5 STATES BY SALES VALUE
+
+Enter total sales amount and sort data to display top states
+Using filter option to reduce top 10 to top 5 states
+-
+-
+-
+
+Adult category women have the highest shopping contribution at 34-35%
+
+pivot chart is utilized to analyze the distribution of sales among different demographics
+A comparison of sales contribution by different channels is performed using a table and column bars
+
+
+✦ INSIGHTS FROM SALES DATA ANALYSIS ✦ 
+
+
+The highest sales occur in March, with women making the highest sales.
+Orders that are delivered are most common, with Maharashtra, Karnataka, UP, Telangana, and Tamil Nadu being the top five states for sales.
+The highest sales are from adult women, and 35% of sales come from Amazon, followed by Flipkart and Myntra.
+
+
+TARGETING SPECIFIC WOMEN CUSTOMERS TO INCREASE SALES
+
+Focusing on women in the age group of 30-49 from Maharashtra and Karnataka
+Utilizing platforms like Amazon and Flipkart to offer ad coupons
+
+
+
+
+
+
+
+
